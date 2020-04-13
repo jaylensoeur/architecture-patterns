@@ -1,4 +1,6 @@
 # Architecture Patterns
+## Entity Boundary Controller 
+
 ## Clean Architecture
 
 ## Layers Pattern
@@ -22,6 +24,8 @@
 ## Big Ball of Mud
 
 References:
+
+https://en.wikipedia.org/wiki/Entity-control-boundary
 
 https://en.wikipedia.org/wiki/Architectural_pattern
 
