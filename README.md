@@ -1,6 +1,7 @@
 # Architecture Patterns
 ## Entity Boundary Controller 
 http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm
+
 https://en.wikipedia.org/wiki/Entity-control-boundary
 
 ## Clean Architecture
