@@ -10,6 +10,8 @@ https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 ## Layers Pattern
 
 ## Ports and Adapters
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+
 
 ## Pipe and Filter
 
