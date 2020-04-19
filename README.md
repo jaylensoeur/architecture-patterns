@@ -2,6 +2,10 @@
 
 An architectural pattern expresses the structural organisation for software systems. It provides a set of predefined subsystems, specifies their responsibilities, and includes rules and guidelines for organising the relationships between them.
 
+https://c4model.com/
+
+![C4 Model example](https://c4model.com/img/c4-overview.png)
+
 
 ## Entity Boundary Controller/Interactor/Usecase (EBC/EBI)
 http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm
