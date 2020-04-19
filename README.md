@@ -1,6 +1,6 @@
 # Architecture Patterns
 
-An architectural pattern expresses the structural organization for software systems. It provides a set of predefined subsystems, specifies their responsibilities, and includes rules and guidelines for organizing the relationships between them.
+An architectural pattern expresses the structural organisation for software systems. It provides a set of predefined subsystems, specifies their responsibilities, and includes rules and guidelines for organising the relationships between them.
 
 
 ## Entity Boundary Controller/Interactor/Usecase (EBC/EBI)
