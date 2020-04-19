@@ -1,10 +1,13 @@
 # Architecture Patterns
-## Entity Boundary Controller 
+## Entity Boundary Controller/Interactor/Usecase (EBC/EBI)
 http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm
 
 https://en.wikipedia.org/wiki/Entity-control-boundary
 
-## Clean Architecture
+https://herbertograca.com/2017/08/24/ebi-architecture/
+
+
+## Clean Architecture (same concept as EBC, layers, ports and adapters)
 https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 
 ## Layers Pattern
