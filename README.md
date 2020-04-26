@@ -42,6 +42,7 @@ https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec
 
 References:
 
+https://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/
 
 https://en.wikipedia.org/wiki/Architectural_pattern
 
